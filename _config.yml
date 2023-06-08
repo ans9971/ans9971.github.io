@@ -1,10 +1,9 @@
-title: 사용자를 생각하는 개발자가 되고싶은 문정환의 블로그입니다.
+title: Hello, world! I'm David Freeman
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-comments: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ans9971.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
